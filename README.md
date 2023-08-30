@@ -6,6 +6,8 @@ project 명: NIA 인공지능 학습용 데이터 구축사업(식용곤충 최�
 
 Sample data 출처: https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=71374
 
+yolov5 알고리즘 리뷰: https://github.com/eumtaewon/Yolov5-Review
+
 # Yolov8 Algorithm summary
 
 - 모델 출시 연도: 2023년 1월에 출시된 Yolo 시리즈 Object Detection 모델
