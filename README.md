@@ -14,4 +14,7 @@ Sample data 출처: https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topM
 
 ![image](https://github.com/eumtaewon/Yolov8-Review/assets/104436260/74190398-6f60-4459-ab40-6920fee5b029)
 
+## Yolov8 Algorithm
+
+![image](https://github.com/eumtaewon/Yolov8-Review/assets/104436260/5f831dc4-078e-4648-baaf-4862b19eebd6)
 
