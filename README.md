@@ -16,5 +16,6 @@ Sample data 출처: https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topM
 
 ## Yolov8 Algorithm
 
-![image](https://github.com/eumtaewon/Yolov8-Review/assets/104436260/5f831dc4-078e-4648-baaf-4862b19eebd6)
+![image](https://github.com/eumtaewon/Yolov8-Review/assets/104436260/b0fb5341-d12b-4625-a2b1-8303dd643699)
+
 
