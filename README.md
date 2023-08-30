@@ -12,6 +12,8 @@ Sample data 출처: https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topM
 
 yolov5 알고리즘 리뷰: https://github.com/eumtaewon/Yolov5-Review
 
+참고 문헌: https://blog.roboflow.com/whats-new-in-yolov8/
+
 # Yolov8 Algorithm summary
 
 - 모델 출시 연도: 2023년 1월에 출시된 Yolo 시리즈 Object Detection 모델
@@ -27,4 +29,14 @@ yolov5 알고리즘 리뷰: https://github.com/eumtaewon/Yolov5-Review
 
 ![image](https://github.com/eumtaewon/Yolov8-Review/assets/104436260/b0fb5341-d12b-4625-a2b1-8303dd643699)
 
+## Yolov5 vs Yolov8
+
+YOLOv8 is a state-of-the-art object detection and image segmentation model created by Ultralytics, the developers of YOLOv5.
+
+차이점
+
+- BackBone
+- Loss function
+- anchor free detection
+  
 
