@@ -20,7 +20,10 @@ yolov5 알고리즘 리뷰: https://github.com/eumtaewon/Yolov5-Review
 
 ![image](https://github.com/eumtaewon/Yolov8-Review/assets/104436260/74190398-6f60-4459-ab40-6920fee5b029)
 
-## Yolov8 Algorithm
+## Yolov5 & Yolov8 Algorithm
+
+![image](https://github.com/eumtaewon/Yolov8-Review/assets/104436260/1dcf5026-f050-4c05-ae48-2226003007b5)
+
 
 ![image](https://github.com/eumtaewon/Yolov8-Review/assets/104436260/b0fb5341-d12b-4625-a2b1-8303dd643699)
 
