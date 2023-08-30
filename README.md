@@ -1,10 +1,8 @@
 # Yolov8-Review
 
-분석환경
-
--Python:3.7
-
--pytorch:11.2
+ 분석환경
+- Python:3.7
+- pytorch:11.2
 
 project 명: NIA 인공지능 학습용 데이터 구축사업(식용곤충 최적화 사육환경 예측)
 
