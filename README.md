@@ -37,6 +37,11 @@ YOLOv8 is a state-of-the-art object detection and image segmentation model creat
 
 ![image](https://github.com/eumtaewon/Yolov8-Review/assets/104436260/1f62b4d7-9316-463b-935e-0aeb08de8386)
 
-![image](https://github.com/eumtaewon/Yolov8-Review/assets/104436260/f8718260-4d07-43d3-8bdd-6ca775c3eb1f)
+![image](https://github.com/eumtaewon/Yolov8-Review/assets/104436260/727dc6b7-3341-4c67-8f70-c1059c8595cf)
+
+### Yolov7과의 비교
+
+![image](https://github.com/eumtaewon/Yolov8-Review/assets/104436260/654fa4f1-732f-4bee-8ee3-243c63699d8c)
+
 
 
