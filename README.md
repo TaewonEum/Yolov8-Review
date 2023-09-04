@@ -33,10 +33,10 @@ yolov5 알고리즘 리뷰: https://github.com/eumtaewon/Yolov5-Review
 
 YOLOv8 is a state-of-the-art object detection and image segmentation model created by Ultralytics, the developers of YOLOv5.
 
-차이점
+### 차이점(간단하게)
 
-- BackBone
-- Loss function
-- anchor free detection
-  
+![image](https://github.com/eumtaewon/Yolov8-Review/assets/104436260/1f62b4d7-9316-463b-935e-0aeb08de8386)
+
+![image](https://github.com/eumtaewon/Yolov8-Review/assets/104436260/f8718260-4d07-43d3-8bdd-6ca775c3eb1f)
+
 
